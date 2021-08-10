@@ -12,6 +12,7 @@ class NoteCard extends Component {
       </section>
      );
   }
+
 }
 
 export default NoteCard;
